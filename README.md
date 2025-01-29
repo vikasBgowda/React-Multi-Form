@@ -1,6 +1,6 @@
 # React + Vite
 
-![screenshot]
+![screenshot](public/Screenshot.png)
 
 We have create and learned how to build multi-purpose form 
 - if we can just change the requirements of the form we would be able to get the form inputs in-place without writing the input logic again for each compoents and differnet forms.
